@@ -1,0 +1,37 @@
+Name: Jasmine Kaur Wadhwa
+ID  : 1619400
+CMPUT 275 WINTER 2021
+
+Weekly Exercise 4
+
+Included Files:
+1) Makefile
+2) README
+3) matrix.h
+4) matrix.cpp
+
+Description:
+
+The Targets included in the Makefile are:
+	make clean: removes all the object files and the executables
+	make matrix.o: matrix.cpp
+	
+The header file matrix.h defines a class Matrix that works with the type float. The class supports 
+the following operations on the matrices:
+1)transpose
+2)addition
+3)subtraction
+4)multiplication
+5)negation
+6)submatrix
+
+We can directly use the iostream objects with the Matrix type objects to initialize and print the matrix,
+this has been taken care of in our program.
+
+Notes and Assumption:
+
+1)Our program allows the creation of a deep copy of a matrix using the copy constructor.
+
+2)It is also possible to pass an array to populate the matrix.
+
+3)Our program allocates and deallocates memory from the heap on its own. Hence, there are no memory leaks.
