@@ -1,10 +1,5 @@
-Name: Jasmine Kaur Wadhwa
-ID  : 1619400
-CMPUT 275 WINTER 2021
-
-Weekly Exercise 4
-
 Description:
+
 The header file matrix.h defines a class Matrix that works with the type float. The class supports 
 the following operations on the matrices:
 1)transpose
