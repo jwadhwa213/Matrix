@@ -1,4 +1,5 @@
 Description:
+You can read the description from the provided pdf.
 
 The header file matrix.h defines a class Matrix that works with the type float. The class supports 
 the following operations on the matrices:
